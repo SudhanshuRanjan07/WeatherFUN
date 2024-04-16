@@ -1,5 +1,5 @@
 # React Weather App
-. It allows users to search for the weather conditions of any city in the world and provides current weather information. 
+It allows users to search for the weather conditions of any city in the world and provides current weather information. 
 
 # Features
 - Users can search for weather conditions of any city in the world.
